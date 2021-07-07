@@ -1,0 +1,23 @@
+
+hpeesofsim (*) 511.update1.0 Nov 21 2019, MINT version 5
+    (64-bit windows built: Fri Nov 22, 2019 03:45:24 +0000)
+
+
+HB HB1[1] <afd_2_branch_line_coupler_lib:rat_race_coupler_balanced_mixer:schematic>
+Pt DC convergence is used.
+    Number of tones:   1.
+    Number of frequencies:   6.
+    Number of time samples:  16.
+    Number of HB equations (problem size): 484.
+    Auto mode: on.
+    Convergence mode: Auto.
+    Linear solver: direct.
+------------------------------------------------------------------------------
+Newton solver:					
+Iter	KCL residual	Damp %	Sol update
+------------------------------------------------------------------------------
+0.0*	2.61949 fA  	100.0             
+
+Resource usage:
+  Total stopwatch time     =     6.99 seconds.
+

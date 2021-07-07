@@ -1,0 +1,8 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+DEFINE afd_homework_lib afd_homework_lib
+ASSIGN afd_homework_lib libMode shared
+INCLUDE ../afd_2_branch_line_coupler_wrk/lib.defs
+INCLUDE ../afd_3_rat_race_coupler_wrk/lib.defs
+INCLUDE ../afd_4_directional_coupler_wrk/lib.defs
+INCLUDE ../afd_5_wilk_divider_wrk/lib.defs

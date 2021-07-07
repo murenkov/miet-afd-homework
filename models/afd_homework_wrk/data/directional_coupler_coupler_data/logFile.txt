@@ -1,0 +1,1305 @@
+
+hpeesofsim (*) 511.update1.0 Nov 21 2019, MINT version 5
+    (64-bit windows built: Fri Nov 22, 2019 03:45:24 +0000)
+
+
+CT Sweep2[1] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>   S_det_phase=(0->360)
+
+CT Sweep2[1].Sweep1[1/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=0  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[1/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=0 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[1/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=0 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[1/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=0 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[1/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=0 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[1/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=0 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[1/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=0 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[1/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=0 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[1/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=0 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[1/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=0 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[1/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=0 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[1/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=0 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[2/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=10  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[2/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=10 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[2/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=10 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[2/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=10 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[2/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=10 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[2/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=10 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[2/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=10 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[2/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=10 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[2/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=10 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[2/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=10 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[2/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=10 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[2/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=10 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[3/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=20  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[3/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=20 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[3/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=20 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[3/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=20 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[3/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=20 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[3/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=20 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[3/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=20 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[3/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=20 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[3/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=20 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[3/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=20 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[3/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=20 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[3/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=20 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[4/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=30  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[4/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=30 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[4/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=30 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[4/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=30 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[4/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=30 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[4/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=30 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[4/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=30 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[4/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=30 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[4/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=30 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[4/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=30 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[4/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=30 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[4/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=30 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[5/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=40  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[5/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=40 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[5/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=40 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[5/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=40 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[5/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=40 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[5/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=40 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[5/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=40 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[5/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=40 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[5/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=40 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[5/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=40 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[5/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=40 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[5/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=40 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[6/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=50  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[6/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=50 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[6/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=50 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[6/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=50 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[6/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=50 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[6/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=50 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[6/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=50 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[6/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=50 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[6/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=50 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[6/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=50 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[6/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=50 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[6/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=50 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[7/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=60  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[7/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=60 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[7/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=60 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[7/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=60 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[7/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=60 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[7/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=60 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[7/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=60 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[7/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=60 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[7/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=60 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[7/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=60 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[7/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=60 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[7/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=60 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[8/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=70  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[8/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=70 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[8/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=70 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[8/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=70 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[8/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=70 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[8/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=70 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[8/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=70 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[8/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=70 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[8/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=70 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[8/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=70 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[8/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=70 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[8/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=70 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[9/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=80  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[9/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=80 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[9/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=80 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[9/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=80 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[9/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=80 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[9/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=80 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[9/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=80 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[9/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=80 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[9/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=80 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[9/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=80 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[9/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=80 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[9/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=80 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[10/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=90  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[10/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=90 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[10/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=90 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[10/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=90 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[10/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=90 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[10/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=90 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[10/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=90 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[10/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=90 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[10/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=90 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[10/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=90 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[10/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=90 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[10/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=90 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[11/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=100  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[11/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=100 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[11/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=100 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[11/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=100 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[11/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=100 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[11/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=100 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[11/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=100 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[11/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=100 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[11/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=100 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[11/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=100 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[11/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=100 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[11/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=100 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[12/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=110  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[12/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=110 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[12/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=110 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[12/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=110 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[12/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=110 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[12/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=110 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[12/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=110 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[12/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=110 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[12/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=110 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[12/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=110 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[12/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=110 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[12/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=110 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[13/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=120  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[13/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=120 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[13/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=120 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[13/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=120 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[13/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=120 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[13/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=120 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[13/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=120 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[13/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=120 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[13/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=120 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[13/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=120 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[13/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=120 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[13/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=120 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[14/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=130  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[14/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=130 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[14/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=130 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[14/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=130 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[14/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=130 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[14/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=130 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[14/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=130 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[14/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=130 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[14/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=130 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[14/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=130 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[14/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=130 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[14/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=130 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[15/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=140  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[15/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=140 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[15/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=140 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[15/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=140 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[15/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=140 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[15/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=140 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[15/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=140 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[15/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=140 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[15/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=140 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[15/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=140 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[15/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=140 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[15/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=140 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[16/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=150  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[16/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=150 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[16/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=150 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[16/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=150 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[16/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=150 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[16/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=150 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[16/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=150 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[16/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=150 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[16/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=150 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[16/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=150 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[16/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=150 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[16/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=150 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[17/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=160  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[17/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=160 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[17/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=160 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[17/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=160 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[17/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=160 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[17/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=160 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[17/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=160 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[17/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=160 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[17/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=160 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[17/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=160 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[17/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=160 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[17/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=160 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[18/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=170  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[18/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=170 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[18/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=170 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[18/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=170 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[18/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=170 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[18/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=170 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[18/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=170 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[18/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=170 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[18/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=170 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[18/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=170 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[18/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=170 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[18/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=170 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[19/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=180  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[19/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=180 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[19/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=180 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[19/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=180 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[19/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=180 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[19/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=180 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[19/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=180 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[19/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=180 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[19/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=180 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[19/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=180 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[19/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=180 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[19/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=180 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[20/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=190  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[20/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=190 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[20/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=190 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[20/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=190 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[20/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=190 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[20/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=190 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[20/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=190 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[20/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=190 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[20/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=190 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[20/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=190 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[20/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=190 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[20/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=190 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[21/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=200  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[21/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=200 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[21/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=200 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[21/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=200 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[21/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=200 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[21/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=200 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[21/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=200 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[21/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=200 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[21/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=200 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[21/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=200 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[21/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=200 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[21/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=200 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[22/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=210  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[22/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=210 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[22/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=210 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[22/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=210 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[22/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=210 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[22/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=210 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[22/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=210 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[22/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=210 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[22/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=210 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[22/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=210 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[22/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=210 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[22/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=210 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[23/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=220  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[23/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=220 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[23/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=220 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[23/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=220 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[23/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=220 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[23/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=220 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[23/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=220 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[23/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=220 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[23/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=220 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[23/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=220 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[23/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=220 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[23/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=220 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[24/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=230  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[24/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=230 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[24/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=230 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[24/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=230 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[24/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=230 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[24/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=230 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[24/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=230 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[24/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=230 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[24/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=230 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[24/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=230 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[24/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=230 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[24/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=230 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[25/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=240  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[25/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=240 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[25/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=240 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[25/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=240 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[25/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=240 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[25/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=240 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[25/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=240 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[25/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=240 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[25/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=240 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[25/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=240 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[25/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=240 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[25/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=240 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[26/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=250  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[26/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=250 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[26/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=250 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[26/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=250 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[26/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=250 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[26/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=250 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[26/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=250 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[26/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=250 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[26/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=250 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[26/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=250 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[26/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=250 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[26/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=250 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[27/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=260  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[27/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=260 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[27/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=260 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[27/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=260 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[27/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=260 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[27/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=260 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[27/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=260 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[27/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=260 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[27/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=260 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[27/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=260 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[27/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=260 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[27/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=260 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[28/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=270  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[28/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=270 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[28/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=270 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[28/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=270 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[28/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=270 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[28/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=270 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[28/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=270 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[28/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=270 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[28/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=270 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[28/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=270 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[28/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=270 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[28/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=270 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[29/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=280  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[29/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=280 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[29/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=280 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[29/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=280 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[29/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=280 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[29/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=280 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[29/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=280 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[29/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=280 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[29/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=280 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[29/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=280 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[29/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=280 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[29/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=280 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[30/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=290  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[30/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=290 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[30/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=290 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[30/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=290 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[30/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=290 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[30/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=290 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[30/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=290 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[30/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=290 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[30/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=290 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[30/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=290 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[30/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=290 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[30/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=290 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[31/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=300  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[31/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=300 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[31/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=300 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[31/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=300 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[31/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=300 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[31/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=300 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[31/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=300 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[31/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=300 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[31/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=300 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[31/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=300 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[31/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=300 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[31/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=300 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[32/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=310  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[32/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=310 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[32/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=310 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[32/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=310 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[32/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=310 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[32/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=310 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[32/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=310 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[32/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=310 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[32/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=310 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[32/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=310 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[32/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=310 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[32/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=310 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[33/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=320  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[33/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=320 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[33/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=320 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[33/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=320 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[33/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=320 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[33/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=320 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[33/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=320 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[33/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=320 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[33/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=320 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[33/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=320 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[33/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=320 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[33/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=320 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[34/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=330  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[34/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=330 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[34/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=330 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[34/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=330 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[34/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=330 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[34/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=330 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[34/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=330 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[34/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=330 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[34/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=330 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[34/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=330 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[34/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=330 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[34/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=330 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[35/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=340  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[35/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=340 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[35/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=340 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[35/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=340 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[35/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=340 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[35/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=340 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[35/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=340 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[35/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=340 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[35/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=340 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[35/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=340 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[35/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=340 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[35/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=340 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[36/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=350  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[36/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=350 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[36/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=350 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[36/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=350 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[36/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=350 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[36/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=350 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[36/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=350 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[36/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=350 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[36/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=350 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[36/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=350 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[36/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=350 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[36/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=350 S_det_amp=500e-03  freq=7 GHz
+
+
+CT Sweep2[1].Sweep1[37/37] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=360  S_det_amp=(0->500e-03)
+
+SP Sweep2[1].Sweep1[37/37].SP1[1/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=360 S_det_amp=0  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[37/37].SP1[2/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=360 S_det_amp=50e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[37/37].SP1[3/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=360 S_det_amp=100e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[37/37].SP1[4/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=360 S_det_amp=150e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[37/37].SP1[5/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=360 S_det_amp=200e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[37/37].SP1[6/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=360 S_det_amp=250e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[37/37].SP1[7/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=360 S_det_amp=300e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[37/37].SP1[8/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=360 S_det_amp=350e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[37/37].SP1[9/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=360 S_det_amp=400e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[37/37].SP1[10/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=360 S_det_amp=450e-03  freq=7 GHz
+
+
+SP Sweep2[1].Sweep1[37/37].SP1[11/11] <afd_2_branch_line_coupler_lib:directional_coupler_coupler:schematic>  S_det_phase=360 S_det_amp=500e-03  freq=7 GHz
+
+
+Resource usage:
+  Total stopwatch time     =     3.73 seconds.
+
