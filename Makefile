@@ -4,7 +4,10 @@ build:
 read:
 	zathura main.pdf &
 
-optimize-images:
+svg2pdf:
+	inkscape images/*/*.svg --export-area-drawing --batch-process --export-type=pdf
+
+images:
 	leanify images/*/*
 
 clean:
