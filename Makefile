@@ -1,4 +1,5 @@
 build:
+	biber main
 	pdflatex main.tex
 
 read:

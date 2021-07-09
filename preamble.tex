@@ -70,7 +70,12 @@
 \usepackage{lastpage}
 \usepackage{soul}
 \usepackage{csquotes}
-\usepackage[style=authoryear,maxcitenames=2,backend=biber,sorting=nty]{biblatex}
+\usepackage[
+    maxcitenames=2,
+    backend=biber,
+    sorting=nty
+]{biblatex}
+\addbibresource{references.bib}
 \usepackage{multicol}
 \usepackage{tikz}
 \usepackage{pgfplots}
@@ -110,6 +115,7 @@
     linkcolor=blue,
     filecolor=magenta,
     urlcolor=cyan,
+    citecolor=green,
     pdftitle={Большое домашнее задание по курсу <<Проектирование антенно-фидерных устройств в среде Keysight ADS>>},
     bookmarks=true,
     pdfpagemode=FullScreen,
